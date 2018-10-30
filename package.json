@@ -1,0 +1,24 @@
+{
+  "name": "pixelatize",
+  "version": "0.0.1",
+  "description": "pixelatize allows you to upload an image and 8-bit-ify or pixelate or pixelize or whatever you want to call it. it's fun, ok.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jennschiffer/pixelatize"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "license": "MIT"
+}
